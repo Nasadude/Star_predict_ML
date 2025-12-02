@@ -5,6 +5,7 @@
         "dateutil",
         "numpy",
         "proba",
+        "pycache",
         "pytz",
         "tzdata"
     ]

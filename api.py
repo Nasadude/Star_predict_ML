@@ -3,6 +3,7 @@ from predictor import load_model, make_predictions
 import numpy as np
 
 
+
 app = FastAPI()
 
 model = load_model('model.pkl')
